@@ -1,0 +1,17 @@
+{
+    "debug.javascript.defaultRuntimeExecutable": {
+        "pwa-node": "/home/vscode/.local/share/mise/shims/node"
+    },
+    "search.exclude": {
+        "**/*.gen.json": true,
+        "**.map": true,
+        "pnpm-lock.yaml": true
+    },
+    "files.insertFinalNewline": true,
+    "[css][html][markdown][yaml]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    }
+}
