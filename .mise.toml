@@ -1,0 +1,6 @@
+[tools]
+bun = "1.2.20"
+pnpm = "10.15.0"
+node = "20.19.4"
+'npm:yarn' = "1.22.22"
+"npm:@anthropic-ai/claude-code" = "latest"
